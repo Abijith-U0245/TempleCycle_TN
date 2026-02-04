@@ -1,0 +1,72 @@
+{
+  "name": "Product",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "incense_powder",
+        "compost",
+        "natural_dye",
+        "essential_oil"
+      ]
+    },
+    "description": {
+      "type": "string"
+    },
+    "flower_composition": {
+      "type": "object",
+      "description": "Percentage of each flower type"
+    },
+    "moisture_content": {
+      "type": "number",
+      "description": "Moisture percentage"
+    },
+    "mesh_size": {
+      "type": "string",
+      "description": "Particle size grade"
+    },
+    "monthly_availability_tonnes": {
+      "type": "number"
+    },
+    "moq_kg": {
+      "type": "number",
+      "description": "Minimum order quantity in kg"
+    },
+    "price_min": {
+      "type": "number"
+    },
+    "price_max": {
+      "type": "number"
+    },
+    "lead_time_days": {
+      "type": "number"
+    },
+    "certifications": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "available",
+        "limited",
+        "out_of_stock",
+        "coming_soon"
+      ],
+      "default": "available"
+    },
+    "image_url": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "name",
+    "category"
+  ]
+}

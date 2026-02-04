@@ -1,0 +1,73 @@
+{
+  "name": "RFQ",
+  "type": "object",
+  "properties": {
+    "rfq_number": {
+      "type": "string"
+    },
+    "buyer_id": {
+      "type": "string"
+    },
+    "buyer_company": {
+      "type": "string"
+    },
+    "product_id": {
+      "type": "string"
+    },
+    "product_name": {
+      "type": "string"
+    },
+    "quantity_kg": {
+      "type": "number"
+    },
+    "delivery_city": {
+      "type": "string"
+    },
+    "usage_type": {
+      "type": "string",
+      "enum": [
+        "incense_manufacturing",
+        "textile_dye",
+        "agriculture",
+        "cosmetics",
+        "other"
+      ]
+    },
+    "required_by": {
+      "type": "string",
+      "format": "date"
+    },
+    "special_requirements": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "pending",
+        "under_review",
+        "quoted",
+        "accepted",
+        "rejected",
+        "contracted"
+      ],
+      "default": "pending"
+    },
+    "quoted_price": {
+      "type": "number"
+    },
+    "assigned_shgs": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "admin_notes": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "buyer_company",
+    "product_name",
+    "quantity_kg"
+  ]
+}

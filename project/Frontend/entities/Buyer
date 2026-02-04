@@ -1,0 +1,60 @@
+{
+  "name": "Buyer",
+  "type": "object",
+  "properties": {
+    "company_name": {
+      "type": "string"
+    },
+    "industry": {
+      "type": "string",
+      "enum": [
+        "incense",
+        "textile",
+        "agriculture",
+        "cosmetics",
+        "fmcg",
+        "other"
+      ]
+    },
+    "contact_name": {
+      "type": "string"
+    },
+    "contact_email": {
+      "type": "string"
+    },
+    "contact_phone": {
+      "type": "string"
+    },
+    "gst_number": {
+      "type": "string"
+    },
+    "address": {
+      "type": "string"
+    },
+    "city": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "pending",
+        "approved",
+        "active",
+        "suspended"
+      ],
+      "default": "pending"
+    },
+    "total_orders": {
+      "type": "number",
+      "default": 0
+    },
+    "total_value": {
+      "type": "number",
+      "default": 0
+    }
+  },
+  "required": [
+    "company_name",
+    "industry"
+  ]
+}

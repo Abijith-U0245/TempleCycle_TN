@@ -1,0 +1,62 @@
+{
+  "name": "Temple",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Temple name"
+    },
+    "district": {
+      "type": "string",
+      "description": "District in Tamil Nadu"
+    },
+    "daily_waste_kg": {
+      "type": "number",
+      "description": "Average daily floral waste in kg"
+    },
+    "flower_types": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Types of flowers collected"
+    },
+    "coordinates": {
+      "type": "object",
+      "properties": {
+        "lat": {
+          "type": "number"
+        },
+        "lng": {
+          "type": "number"
+        }
+      }
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "pending",
+        "approved",
+        "active",
+        "inactive"
+      ],
+      "default": "pending"
+    },
+    "assigned_shg": {
+      "type": "string",
+      "description": "Assigned SHG unit ID"
+    },
+    "collection_frequency": {
+      "type": "string",
+      "enum": [
+        "daily",
+        "weekly",
+        "festival_only"
+      ]
+    }
+  },
+  "required": [
+    "name",
+    "district"
+  ]
+}

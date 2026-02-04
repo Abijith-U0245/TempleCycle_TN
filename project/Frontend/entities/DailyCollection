@@ -1,0 +1,55 @@
+{
+  "name": "DailyCollection",
+  "type": "object",
+  "properties": {
+    "shg_id": {
+      "type": "string"
+    },
+    "shg_name": {
+      "type": "string"
+    },
+    "date": {
+      "type": "string",
+      "format": "date"
+    },
+    "temples_collected": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "total_collected_kg": {
+      "type": "number"
+    },
+    "flower_breakdown": {
+      "type": "object",
+      "description": "Kg per flower type"
+    },
+    "drying_output_kg": {
+      "type": "number"
+    },
+    "grinding_output_kg": {
+      "type": "number"
+    },
+    "qc_status": {
+      "type": "string",
+      "enum": [
+        "pending",
+        "passed",
+        "failed",
+        "partial"
+      ],
+      "default": "pending"
+    },
+    "qc_notes": {
+      "type": "string"
+    },
+    "earnings": {
+      "type": "number"
+    }
+  },
+  "required": [
+    "shg_id",
+    "date"
+  ]
+}

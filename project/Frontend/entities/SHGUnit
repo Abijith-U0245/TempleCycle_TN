@@ -1,0 +1,66 @@
+{
+  "name": "SHGUnit",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "SHG Unit name"
+    },
+    "district": {
+      "type": "string"
+    },
+    "leader_name": {
+      "type": "string"
+    },
+    "member_count": {
+      "type": "number"
+    },
+    "contact_phone": {
+      "type": "string"
+    },
+    "processing_capacity_kg": {
+      "type": "number",
+      "description": "Daily processing capacity in kg"
+    },
+    "products": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Products they can produce"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "pending",
+        "approved",
+        "active",
+        "suspended"
+      ],
+      "default": "pending"
+    },
+    "coordinates": {
+      "type": "object",
+      "properties": {
+        "lat": {
+          "type": "number"
+        },
+        "lng": {
+          "type": "number"
+        }
+      }
+    },
+    "total_earnings": {
+      "type": "number",
+      "default": 0
+    },
+    "quality_rating": {
+      "type": "number",
+      "description": "Quality rating out of 5"
+    }
+  },
+  "required": [
+    "name",
+    "district"
+  ]
+}

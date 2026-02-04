@@ -1,0 +1,75 @@
+{
+  "name": "Contract",
+  "type": "object",
+  "properties": {
+    "contract_number": {
+      "type": "string"
+    },
+    "rfq_id": {
+      "type": "string"
+    },
+    "buyer_id": {
+      "type": "string"
+    },
+    "buyer_company": {
+      "type": "string"
+    },
+    "product_name": {
+      "type": "string"
+    },
+    "monthly_quantity_kg": {
+      "type": "number"
+    },
+    "price_per_kg": {
+      "type": "number"
+    },
+    "start_date": {
+      "type": "string",
+      "format": "date"
+    },
+    "end_date": {
+      "type": "string",
+      "format": "date"
+    },
+    "delivery_schedule": {
+      "type": "string",
+      "enum": [
+        "weekly",
+        "bi_weekly",
+        "monthly"
+      ]
+    },
+    "delivery_address": {
+      "type": "string"
+    },
+    "assigned_shgs": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "draft",
+        "active",
+        "completed",
+        "terminated"
+      ],
+      "default": "draft"
+    },
+    "total_delivered_kg": {
+      "type": "number",
+      "default": 0
+    },
+    "total_revenue": {
+      "type": "number",
+      "default": 0
+    }
+  },
+  "required": [
+    "buyer_company",
+    "product_name",
+    "monthly_quantity_kg"
+  ]
+}
