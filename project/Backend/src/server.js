@@ -84,10 +84,6 @@ app.use((err, req, res, next) => {
 });
 
 const port = process.env.PORT || 3000;  // This uses Vercel's PORT
-app.listen(port, () => {
-  console.log(`Server running on port ${port}`);
-});
-
 app.listen(PORT, () => {
   logger.info(`🚀 TempleCycle TN API server running on port ${PORT}`);
   logger.info(`🌍 Environment: ${process.env.NODE_ENV}`);
