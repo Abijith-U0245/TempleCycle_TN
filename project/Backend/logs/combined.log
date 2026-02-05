@@ -1,0 +1,155 @@
+{"level":"info","message":"🚀 TempleCycle TN API server running on port 5000","service":"templecycle-api","timestamp":"2026-02-05T03:28:29.576Z"}
+{"level":"info","message":"🌍 Environment: development","service":"templecycle-api","timestamp":"2026-02-05T03:28:29.581Z"}
+{"level":"info","message":"🔗 Frontend URL: http://localhost:5173","service":"templecycle-api","timestamp":"2026-02-05T03:28:29.581Z"}
+{"level":"info","message":"GET /api/health - ::1","service":"templecycle-api","timestamp":"2026-02-05T03:28:46.676Z"}
+{"level":"error","message":"❌ MongoDB connection failed:","service":"templecycle-api","timestamp":"2026-02-05T03:32:18.860Z"}
+{"level":"info","message":"🔄 Falling back to in-memory data mode","service":"templecycle-api","timestamp":"2026-02-05T03:32:19.024Z"}
+{"level":"info","message":"GET /api/products - ::1","service":"templecycle-api","timestamp":"2026-02-05T03:35:15.498Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"templecycle-api","timestamp":"2026-02-05T03:35:31.305Z"}
+{"level":"info","message":"🚀 TempleCycle TN API server running on port 5000","service":"templecycle-api","timestamp":"2026-02-05T03:35:51.505Z"}
+{"level":"info","message":"🌍 Environment: development","service":"templecycle-api","timestamp":"2026-02-05T03:35:51.510Z"}
+{"level":"info","message":"🔗 Frontend URL: http://localhost:5173","service":"templecycle-api","timestamp":"2026-02-05T03:35:51.510Z"}
+{"level":"error","message":"❌ MongoDB connection failed:","service":"templecycle-api","timestamp":"2026-02-05T03:35:56.499Z"}
+{"level":"info","message":"🔄 Falling back to in-memory data mode","service":"templecycle-api","timestamp":"2026-02-05T03:35:56.500Z"}
+{"level":"info","message":"🌱 In-memory seed data loaded successfully","service":"templecycle-api","timestamp":"2026-02-05T03:35:57.817Z"}
+{"level":"info","message":"🚀 TempleCycle TN API server running on port 5000","service":"templecycle-api","timestamp":"2026-02-05T03:36:02.501Z"}
+{"level":"info","message":"🌍 Environment: development","service":"templecycle-api","timestamp":"2026-02-05T03:36:02.505Z"}
+{"level":"info","message":"🔗 Frontend URL: http://localhost:5173","service":"templecycle-api","timestamp":"2026-02-05T03:36:02.506Z"}
+{"level":"error","message":"❌ MongoDB connection failed:","service":"templecycle-api","timestamp":"2026-02-05T03:36:07.493Z"}
+{"level":"info","message":"🔄 Falling back to in-memory data mode","service":"templecycle-api","timestamp":"2026-02-05T03:36:07.494Z"}
+{"level":"info","message":"🌱 In-memory seed data loaded successfully","service":"templecycle-api","timestamp":"2026-02-05T03:36:08.804Z"}
+{"level":"info","message":"🚀 TempleCycle TN API server running on port 5000","service":"templecycle-api","timestamp":"2026-02-05T03:36:10.240Z"}
+{"level":"info","message":"🌍 Environment: development","service":"templecycle-api","timestamp":"2026-02-05T03:36:10.245Z"}
+{"level":"info","message":"🔗 Frontend URL: http://localhost:5173","service":"templecycle-api","timestamp":"2026-02-05T03:36:10.245Z"}
+{"level":"error","message":"❌ MongoDB connection failed:","service":"templecycle-api","timestamp":"2026-02-05T03:36:15.241Z"}
+{"level":"info","message":"🔄 Falling back to in-memory data mode","service":"templecycle-api","timestamp":"2026-02-05T03:36:15.242Z"}
+{"level":"info","message":"🌱 In-memory seed data loaded successfully","service":"templecycle-api","timestamp":"2026-02-05T03:36:16.555Z"}
+{"level":"info","message":"🚀 TempleCycle TN API server running on port 5000","service":"templecycle-api","timestamp":"2026-02-05T03:36:19.841Z"}
+{"level":"info","message":"🌍 Environment: development","service":"templecycle-api","timestamp":"2026-02-05T03:36:19.845Z"}
+{"level":"info","message":"🔗 Frontend URL: http://localhost:5173","service":"templecycle-api","timestamp":"2026-02-05T03:36:19.846Z"}
+{"level":"info","message":"🚀 TempleCycle TN API server running on port 5000","service":"templecycle-api","timestamp":"2026-02-05T03:36:23.704Z"}
+{"level":"info","message":"🌍 Environment: development","service":"templecycle-api","timestamp":"2026-02-05T03:36:23.709Z"}
+{"level":"info","message":"🔗 Frontend URL: http://localhost:5173","service":"templecycle-api","timestamp":"2026-02-05T03:36:23.710Z"}
+{"level":"error","message":"❌ MongoDB connection failed:","service":"templecycle-api","timestamp":"2026-02-05T03:36:28.698Z"}
+{"level":"info","message":"🔄 Falling back to in-memory data mode","service":"templecycle-api","timestamp":"2026-02-05T03:36:28.700Z"}
+{"level":"info","message":"🌱 In-memory seed data loaded successfully","service":"templecycle-api","timestamp":"2026-02-05T03:36:30.000Z"}
+{"level":"info","message":"🚀 TempleCycle TN API server running on port 5000","service":"templecycle-api","timestamp":"2026-02-05T03:36:33.162Z"}
+{"level":"info","message":"🌍 Environment: development","service":"templecycle-api","timestamp":"2026-02-05T03:36:33.168Z"}
+{"level":"info","message":"🔗 Frontend URL: http://localhost:5173","service":"templecycle-api","timestamp":"2026-02-05T03:36:33.168Z"}
+{"level":"info","message":"🚀 TempleCycle TN API server running on port 5000","service":"templecycle-api","timestamp":"2026-02-05T03:36:37.517Z"}
+{"level":"info","message":"🌍 Environment: development","service":"templecycle-api","timestamp":"2026-02-05T03:36:37.522Z"}
+{"level":"info","message":"🔗 Frontend URL: http://localhost:5173","service":"templecycle-api","timestamp":"2026-02-05T03:36:37.523Z"}
+{"level":"error","message":"❌ MongoDB connection failed:","service":"templecycle-api","timestamp":"2026-02-05T03:36:42.518Z"}
+{"level":"info","message":"🔄 Falling back to in-memory data mode","service":"templecycle-api","timestamp":"2026-02-05T03:36:42.520Z"}
+{"level":"info","message":"🌱 In-memory seed data loaded successfully","service":"templecycle-api","timestamp":"2026-02-05T03:36:43.848Z"}
+{"level":"info","message":"🚀 TempleCycle TN API server running on port 5000","service":"templecycle-api","timestamp":"2026-02-05T03:36:47.579Z"}
+{"level":"info","message":"🌍 Environment: development","service":"templecycle-api","timestamp":"2026-02-05T03:36:47.584Z"}
+{"level":"info","message":"🔗 Frontend URL: http://localhost:5173","service":"templecycle-api","timestamp":"2026-02-05T03:36:47.585Z"}
+{"level":"error","message":"❌ MongoDB connection failed:","service":"templecycle-api","timestamp":"2026-02-05T03:36:52.581Z"}
+{"level":"info","message":"🔄 Falling back to in-memory data mode","service":"templecycle-api","timestamp":"2026-02-05T03:36:52.583Z"}
+{"level":"info","message":"🌱 In-memory seed data loaded successfully","service":"templecycle-api","timestamp":"2026-02-05T03:36:54.063Z"}
+{"level":"info","message":"🚀 TempleCycle TN API server running on port 5000","service":"templecycle-api","timestamp":"2026-02-05T03:37:21.872Z"}
+{"level":"info","message":"🌍 Environment: development","service":"templecycle-api","timestamp":"2026-02-05T03:37:21.877Z"}
+{"level":"info","message":"🔗 Frontend URL: http://localhost:5173","service":"templecycle-api","timestamp":"2026-02-05T03:37:21.878Z"}
+{"level":"error","message":"❌ MongoDB connection failed:","service":"templecycle-api","timestamp":"2026-02-05T03:37:26.870Z"}
+{"level":"info","message":"🔄 Falling back to in-memory data mode","service":"templecycle-api","timestamp":"2026-02-05T03:37:26.871Z"}
+{"level":"info","message":"🌱 In-memory seed data loaded successfully","service":"templecycle-api","timestamp":"2026-02-05T03:37:28.200Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"templecycle-api","timestamp":"2026-02-05T03:37:31.347Z"}
+{"level":"info","message":"🚀 TempleCycle TN API server running on port 5000","service":"templecycle-api","timestamp":"2026-02-05T03:37:37.784Z"}
+{"level":"info","message":"🌍 Environment: development","service":"templecycle-api","timestamp":"2026-02-05T03:37:37.789Z"}
+{"level":"info","message":"🔗 Frontend URL: http://localhost:5173","service":"templecycle-api","timestamp":"2026-02-05T03:37:37.789Z"}
+{"level":"info","message":"🚀 TempleCycle TN API server running on port 5000","service":"templecycle-api","timestamp":"2026-02-05T03:37:41.707Z"}
+{"level":"info","message":"🌍 Environment: development","service":"templecycle-api","timestamp":"2026-02-05T03:37:41.713Z"}
+{"level":"info","message":"🔗 Frontend URL: http://localhost:5173","service":"templecycle-api","timestamp":"2026-02-05T03:37:41.714Z"}
+{"level":"error","message":"❌ MongoDB connection failed:","service":"templecycle-api","timestamp":"2026-02-05T03:37:46.696Z"}
+{"level":"info","message":"🔄 Falling back to in-memory data mode","service":"templecycle-api","timestamp":"2026-02-05T03:37:46.698Z"}
+{"level":"info","message":"🚀 TempleCycle TN API server running on port 5000","service":"templecycle-api","timestamp":"2026-02-05T03:37:48.462Z"}
+{"level":"info","message":"🌍 Environment: development","service":"templecycle-api","timestamp":"2026-02-05T03:37:48.466Z"}
+{"level":"info","message":"🔗 Frontend URL: http://localhost:5173","service":"templecycle-api","timestamp":"2026-02-05T03:37:48.467Z"}
+{"level":"error","message":"❌ MongoDB connection failed:","service":"templecycle-api","timestamp":"2026-02-05T03:37:53.462Z"}
+{"level":"info","message":"🔄 Falling back to in-memory data mode","service":"templecycle-api","timestamp":"2026-02-05T03:37:53.464Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"templecycle-api","timestamp":"2026-02-05T03:37:53.795Z"}
+{"level":"info","message":"🌱 In-memory seed data loaded successfully","service":"templecycle-api","timestamp":"2026-02-05T03:37:54.836Z"}
+{"level":"info","message":"GET /api/products - ::1","service":"templecycle-api","timestamp":"2026-02-05T03:38:19.641Z"}
+{"level":"info","message":"🚀 TempleCycle TN API server running on port 5000","service":"templecycle-api","timestamp":"2026-02-05T03:38:30.549Z"}
+{"level":"info","message":"🌍 Environment: development","service":"templecycle-api","timestamp":"2026-02-05T03:38:30.555Z"}
+{"level":"info","message":"🔗 Frontend URL: http://localhost:5173","service":"templecycle-api","timestamp":"2026-02-05T03:38:30.556Z"}
+{"level":"error","message":"❌ MongoDB connection failed:","service":"templecycle-api","timestamp":"2026-02-05T03:38:35.545Z"}
+{"level":"info","message":"🔄 Falling back to in-memory data mode","service":"templecycle-api","timestamp":"2026-02-05T03:38:35.546Z"}
+{"level":"info","message":"🌱 In-memory seed data loaded successfully","service":"templecycle-api","timestamp":"2026-02-05T03:38:37.469Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"templecycle-api","timestamp":"2026-02-05T03:38:45.661Z"}
+{"level":"info","message":"🚀 TempleCycle TN API server running on port 5000","service":"templecycle-api","timestamp":"2026-02-05T03:39:22.048Z"}
+{"level":"info","message":"🌍 Environment: development","service":"templecycle-api","timestamp":"2026-02-05T03:39:22.052Z"}
+{"level":"info","message":"🔗 Frontend URL: http://localhost:5173","service":"templecycle-api","timestamp":"2026-02-05T03:39:22.053Z"}
+{"level":"error","message":"❌ MongoDB connection failed:","service":"templecycle-api","timestamp":"2026-02-05T03:39:27.049Z"}
+{"level":"info","message":"🔄 Falling back to in-memory data mode","service":"templecycle-api","timestamp":"2026-02-05T03:39:27.051Z"}
+{"level":"info","message":"🌱 In-memory seed data loaded successfully","service":"templecycle-api","timestamp":"2026-02-05T03:39:28.394Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"templecycle-api","timestamp":"2026-02-05T03:39:34.440Z"}
+{"level":"info","message":"🚀 TempleCycle TN API server running on port 5000","service":"templecycle-api","timestamp":"2026-02-05T03:39:41.643Z"}
+{"level":"info","message":"🌍 Environment: development","service":"templecycle-api","timestamp":"2026-02-05T03:39:41.655Z"}
+{"level":"info","message":"🔗 Frontend URL: http://localhost:5173","service":"templecycle-api","timestamp":"2026-02-05T03:39:41.656Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"templecycle-api","timestamp":"2026-02-05T03:39:46.095Z"}
+{"level":"error","message":"❌ MongoDB connection failed:","service":"templecycle-api","timestamp":"2026-02-05T03:39:46.623Z"}
+{"level":"info","message":"🔄 Falling back to in-memory data mode","service":"templecycle-api","timestamp":"2026-02-05T03:39:46.624Z"}
+{"level":"info","message":"🌱 In-memory seed data loaded successfully","service":"templecycle-api","timestamp":"2026-02-05T03:39:48.011Z"}
+{"level":"info","message":"🚀 TempleCycle TN API server running on port 5000","service":"templecycle-api","timestamp":"2026-02-05T03:40:02.390Z"}
+{"level":"info","message":"🌍 Environment: development","service":"templecycle-api","timestamp":"2026-02-05T03:40:02.395Z"}
+{"level":"info","message":"🔗 Frontend URL: http://localhost:5173","service":"templecycle-api","timestamp":"2026-02-05T03:40:02.397Z"}
+{"level":"error","message":"❌ MongoDB connection failed:","service":"templecycle-api","timestamp":"2026-02-05T03:40:07.386Z"}
+{"level":"info","message":"🔄 Falling back to in-memory data mode","service":"templecycle-api","timestamp":"2026-02-05T03:40:07.387Z"}
+{"level":"info","message":"🌱 In-memory seed data loaded successfully","service":"templecycle-api","timestamp":"2026-02-05T03:40:08.973Z"}
+{"level":"info","message":"🚀 TempleCycle TN API server running on port 5000","service":"templecycle-api","timestamp":"2026-02-05T03:40:47.586Z"}
+{"level":"info","message":"🌍 Environment: development","service":"templecycle-api","timestamp":"2026-02-05T03:40:47.591Z"}
+{"level":"info","message":"🔗 Frontend URL: http://localhost:5173","service":"templecycle-api","timestamp":"2026-02-05T03:40:47.592Z"}
+{"level":"error","message":"❌ MongoDB connection failed:","service":"templecycle-api","timestamp":"2026-02-05T03:40:52.588Z"}
+{"level":"info","message":"🔄 Falling back to in-memory data mode","service":"templecycle-api","timestamp":"2026-02-05T03:40:52.589Z"}
+{"level":"info","message":"🌱 In-memory seed data loaded successfully","service":"templecycle-api","timestamp":"2026-02-05T03:40:53.989Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"templecycle-api","timestamp":"2026-02-05T03:41:15.915Z"}
+{"level":"info","message":"🚀 TempleCycle TN API server running on port 5000","service":"templecycle-api","timestamp":"2026-02-05T03:41:26.959Z"}
+{"level":"info","message":"🌍 Environment: development","service":"templecycle-api","timestamp":"2026-02-05T03:41:26.972Z"}
+{"level":"info","message":"🔗 Frontend URL: http://localhost:5173","service":"templecycle-api","timestamp":"2026-02-05T03:41:26.981Z"}
+{"level":"error","message":"❌ MongoDB connection failed:","service":"templecycle-api","timestamp":"2026-02-05T03:41:31.949Z"}
+{"level":"info","message":"🔄 Falling back to in-memory data mode","service":"templecycle-api","timestamp":"2026-02-05T03:41:31.950Z"}
+{"level":"info","message":"🌱 In-memory seed data loaded successfully","service":"templecycle-api","timestamp":"2026-02-05T03:41:33.294Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"templecycle-api","timestamp":"2026-02-05T03:41:56.004Z"}
+{"level":"info","message":"🚀 TempleCycle TN API server running on port 5000","service":"templecycle-api","timestamp":"2026-02-05T03:42:12.152Z"}
+{"level":"info","message":"🌍 Environment: development","service":"templecycle-api","timestamp":"2026-02-05T03:42:12.162Z"}
+{"level":"info","message":"🔗 Frontend URL: http://localhost:5173","service":"templecycle-api","timestamp":"2026-02-05T03:42:12.167Z"}
+{"level":"error","message":"❌ MongoDB connection failed:","service":"templecycle-api","timestamp":"2026-02-05T03:42:17.147Z"}
+{"level":"info","message":"🔄 Falling back to in-memory data mode","service":"templecycle-api","timestamp":"2026-02-05T03:42:17.148Z"}
+{"level":"info","message":"🌱 In-memory seed data loaded successfully","service":"templecycle-api","timestamp":"2026-02-05T03:42:18.575Z"}
+{"level":"info","message":"🚀 TempleCycle TN API server running on port 5000","service":"templecycle-api","timestamp":"2026-02-05T03:43:04.009Z"}
+{"level":"info","message":"🌍 Environment: development","service":"templecycle-api","timestamp":"2026-02-05T03:43:04.014Z"}
+{"level":"info","message":"🔗 Frontend URL: http://localhost:5173","service":"templecycle-api","timestamp":"2026-02-05T03:43:04.015Z"}
+{"level":"error","message":"❌ MongoDB connection failed:","service":"templecycle-api","timestamp":"2026-02-05T03:43:09.015Z"}
+{"level":"info","message":"🔄 Falling back to in-memory data mode","service":"templecycle-api","timestamp":"2026-02-05T03:43:09.016Z"}
+{"level":"info","message":"🌱 In-memory seed data loaded successfully","service":"templecycle-api","timestamp":"2026-02-05T03:43:10.383Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"templecycle-api","timestamp":"2026-02-05T03:43:16.279Z"}
+{"level":"info","message":"GET /api/products - ::1","service":"templecycle-api","timestamp":"2026-02-05T03:43:23.221Z"}
+{"level":"info","message":"🚀 TempleCycle TN API server running on port 5000","service":"templecycle-api","timestamp":"2026-02-05T03:43:31.494Z"}
+{"level":"info","message":"🌍 Environment: development","service":"templecycle-api","timestamp":"2026-02-05T03:43:31.509Z"}
+{"level":"info","message":"🔗 Frontend URL: http://localhost:5173","service":"templecycle-api","timestamp":"2026-02-05T03:43:31.536Z"}
+{"level":"info","message":"🚀 TempleCycle TN API server running on port 5000","service":"templecycle-api","timestamp":"2026-02-05T03:43:37.435Z"}
+{"level":"info","message":"🌍 Environment: development","service":"templecycle-api","timestamp":"2026-02-05T03:43:37.456Z"}
+{"level":"info","message":"🔗 Frontend URL: http://localhost:5173","service":"templecycle-api","timestamp":"2026-02-05T03:43:37.467Z"}
+{"level":"error","message":"❌ MongoDB connection failed:","service":"templecycle-api","timestamp":"2026-02-05T03:43:42.422Z"}
+{"level":"info","message":"🔄 Falling back to in-memory data mode","service":"templecycle-api","timestamp":"2026-02-05T03:43:42.424Z"}
+{"level":"info","message":"🌱 In-memory seed data loaded successfully","service":"templecycle-api","timestamp":"2026-02-05T03:43:44.164Z"}
+{"level":"info","message":"GET /api/products - ::1","service":"templecycle-api","timestamp":"2026-02-05T03:43:46.006Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"templecycle-api","timestamp":"2026-02-05T03:43:54.415Z"}
+{"level":"info","message":"GET /api/dashboard/admin - ::1","service":"templecycle-api","timestamp":"2026-02-05T03:43:55.016Z"}
+{"level":"info","message":"🚀 TempleCycle TN API server running on port 5000","service":"templecycle-api","timestamp":"2026-02-05T03:44:08.918Z"}
+{"level":"info","message":"🌍 Environment: development","service":"templecycle-api","timestamp":"2026-02-05T03:44:08.927Z"}
+{"level":"info","message":"🔗 Frontend URL: http://localhost:5173","service":"templecycle-api","timestamp":"2026-02-05T03:44:08.932Z"}
+{"level":"error","message":"❌ MongoDB connection failed:","service":"templecycle-api","timestamp":"2026-02-05T03:44:13.906Z"}
+{"level":"info","message":"🔄 Falling back to in-memory data mode","service":"templecycle-api","timestamp":"2026-02-05T03:44:13.908Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"templecycle-api","timestamp":"2026-02-05T03:44:14.240Z"}
+{"level":"info","message":"GET /api/dashboard/admin - ::1","service":"templecycle-api","timestamp":"2026-02-05T03:44:14.353Z"}
+{"level":"info","message":"🌱 In-memory seed data loaded successfully","service":"templecycle-api","timestamp":"2026-02-05T03:44:15.265Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"templecycle-api","timestamp":"2026-02-05T03:44:49.329Z"}
+{"level":"info","message":"🚀 TempleCycle TN API server running on port 5000","service":"templecycle-api","timestamp":"2026-02-05T03:44:56.593Z"}
+{"level":"info","message":"🌍 Environment: development","service":"templecycle-api","timestamp":"2026-02-05T03:44:56.604Z"}
+{"level":"info","message":"🔗 Frontend URL: http://localhost:5173","service":"templecycle-api","timestamp":"2026-02-05T03:44:56.609Z"}
+{"level":"error","message":"❌ MongoDB connection failed:","service":"templecycle-api","timestamp":"2026-02-05T03:45:01.593Z"}
+{"level":"info","message":"🔄 Falling back to in-memory data mode","service":"templecycle-api","timestamp":"2026-02-05T03:45:01.595Z"}
+{"level":"info","message":"🌱 In-memory seed data loaded successfully","service":"templecycle-api","timestamp":"2026-02-05T03:45:03.003Z"}
