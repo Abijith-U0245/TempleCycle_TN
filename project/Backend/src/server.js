@@ -4,6 +4,11 @@ const helmet = require('helmet');
 const rateLimit = require('express-rate-limit');
 require('dotenv').config();
 
+const port = process.env.PORT || 3000;  // This uses Vercel's PORT
+app.listen(port, () => {
+  console.log(`Server running on port ${port}`);
+});
+
 const connectDB = require('./config/db');
 const logger = require('./utils/response').logger;
 
